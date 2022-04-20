@@ -11,7 +11,7 @@ or
 
 run the script using
 
-`python accountGenrator.py` or `python3 accountGenerator.py`
+`python genrator.py` or `python3 generator.py`
 
 you need to input values in the form of
 
