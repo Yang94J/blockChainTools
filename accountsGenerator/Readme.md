@@ -17,4 +17,4 @@ you need to input values in the form of
 
 `x y`, which x represents the number of accounts to be generated and y represents the length of the suffix composed by one single character.
 
-
+The keystore info (address and the private key) is stored in the memeory and only display on the screen
